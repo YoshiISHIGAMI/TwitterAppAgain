@@ -13,6 +13,7 @@
 		9219C7CB1BAD546600861371 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9219C7CA1BAD546600861371 /* Images.xcassets */; };
 		9219C7CE1BAD546600861371 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9219C7CC1BAD546600861371 /* LaunchScreen.xib */; };
 		9219C7DA1BAD546600861371 /* TwitterAppAgainTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9219C7D91BAD546600861371 /* TwitterAppAgainTests.swift */; };
+		9219C7E41BAD556400861371 /* TimeLineTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9219C7E31BAD556400861371 /* TimeLineTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		9219C7D31BAD546600861371 /* TwitterAppAgainTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TwitterAppAgainTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9219C7D81BAD546600861371 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9219C7D91BAD546600861371 /* TwitterAppAgainTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TwitterAppAgainTests.swift; sourceTree = "<group>"; };
+		9219C7E31BAD556400861371 /* TimeLineTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TimeLineTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +82,7 @@
 				9219C7C31BAD546600861371 /* AppDelegate.swift */,
 				9219C7C51BAD546600861371 /* ViewController.swift */,
 				9219C7C71BAD546600861371 /* Main.storyboard */,
+				9219C7E31BAD556400861371 /* TimeLineTableViewController.swift */,
 				9219C7CA1BAD546600861371 /* Images.xcassets */,
 				9219C7CC1BAD546600861371 /* LaunchScreen.xib */,
 				9219C7C11BAD546600861371 /* Supporting Files */,
@@ -214,6 +217,7 @@
 			files = (
 				9219C7C61BAD546600861371 /* ViewController.swift in Sources */,
 				9219C7C41BAD546600861371 /* AppDelegate.swift in Sources */,
+				9219C7E41BAD556400861371 /* TimeLineTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
